@@ -19,6 +19,19 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yosen9number/reactToDoApp.git"
+  },
+  "author": "NL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yosen9number/reactToDoApp/issues"
+  },
+  "homepage": "https://github.com/yosen9number/reactToDoApp#readme",
+  "description": "ToDo Application",
+  "main": "index.js",
+  "devDependencies": {},
   "browserslist": {
     "production": [
       ">0.2%",
