@@ -1,0 +1,9 @@
+.item-add-from {
+    margin-top: 10px;
+}
+
+.item-add-from .new-todo-label {
+    width: auto;
+    flex-grow: 1;
+    margin-right: 3px;
+}
